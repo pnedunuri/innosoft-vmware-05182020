@@ -14,7 +14,7 @@ You'll be redirected to the serverless.com website to enter your access credenti
 
 `serverless login`
 
-*Step 4:** Create your app
+**Step 4:** Create your app
 
 `serverless --org reselbob --app my-cool-app`
 
