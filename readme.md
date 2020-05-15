@@ -1,29 +1,67 @@
-# Microservice Architecture Labs
+# Microservice Architecture Follow Along Labs
 
 ## Day 1
 
-01 •  Running a Simple Microservice on Katacoda: [Pinger](https://github.com/reselbob/pinger).
+### Evolving to Synchronous and Asynchronous Microservices
 
-02 •  Extending an Swagger Specification: [Airport Codes](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/airport-codes)
+01 • Case Study - [Fortune Cookies Monolith](https://github.com/reselbob/fortune-cookies/tree/master/monolith).
 
-03 • Representing Microservices Using Docker Compose: [Food Court](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
+02 • Case Study - [Fortune Cookies Synchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-sync).
 
-04 •  Deployment Discovery Under Kubernetes: [Red-Green Deployment](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
+03 • Case Study - [Fortune Cookies Asynchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-async).
 
-05 •  The Canary Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/canary-deployment).
+04 • Case Study - [Implementing a Hybrid Service Using GraphQL
+](Ihttps://github.com/reselbob/seat-saver).
 
-06 •  The Blue Green Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/blue-green-deployment).
+### Architectural Styles
+
+05 • [RPC and Java RMI](https://katacoda.com/reselbob/scenarios/understanding-java-rmi).
+
+06 • [XML-RPC](https://katacoda.com/programmableweb/scenarios/working-with-xml-rpc).
+
+07 • [GraphQL](https://github.com/reselbob/seat-saver).
+
+08 • [gRPC](https://katacoda.com/programmableweb/scenarios/understanding-a-grpc-api).
+
+### Deployment Units
+
+09 • [Docker](https://github.com/reselbob/wisesayings).
+
+10 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt).
+
+11 • [WebAssembly](https://github.com/reselbob/innosoft-vmware-05182020/blob/master/webassembly/basic.html).
+
+### Frameworks
+
+12 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
+
 
 ## Day 2
 
-01  • Effective Monitoring Using the Kubernetes Dashboard [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/k8s-dashboard).
+### Microservice Design Patterns
 
-02 •  Implementing Log Aggregation with Elasticsearch, FluentD and Kibana [here](https://github.com/reselbob/dockerdemos/tree/master/travelagent)
+01 • [Observability with Kubernetes Dashboard](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/k8s-dashboard).
 
-03 •  Service Discovery and Heath Check with Consul [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
+02 • [Observability with Log Aggregation](https://github.com/reselbob/dockerdemos/tree/master/travelagent)
 
-04 •  Kubernetes Service Discovery [here](https://github.com/reselbob/innosoft/tree/master/microservices-architecture/04-service-discovery-k8s).
+03 • [Observability with Heath Check using Consul](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
 
-05 • Ensuring Cluster Security Using Kubernetes Secrets [here](https://github.com/reselbob/innosoft/blob/master/microservices-architecture/supplemental/labs/02-kubernetes-secrets/README.md).
+04 • [Kubernetes Service Discovery](https://github.com/reselbob/innosoft/tree/master/microservices-architecture/04-service-discovery-k8s).
 
-06 • Workshop: Adding an Ad Auction Service to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](https://github.com/reselbob/fortune-cookies).
+### Deployment
+
+05 • [Application Deployment Using Jenkins](https://github.com/reselbob/fatjenkins).
+
+### Security
+
+06 • [Kubernetes Secrets](https://github.com/reselbob/innosoft/blob/master/microservices-architecture/supplemental/labs/02-kubernetes-secrets/README.md).
+
+07 • [Container Security](https://github.com/reselbob/dockerdemos/tree/master/security-blankets).
+
+### Service Mesh
+
+08 • [DAPR](https://katacoda.com/reselbob/scenarios/using-dapr).
+
+### Workshop
+
+09 • **Workshop: Adding an Ad Auction Service** to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](https://github.com/reselbob/fortune-cookies).
