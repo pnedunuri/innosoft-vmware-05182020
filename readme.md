@@ -4,14 +4,13 @@
 
 ### Evolving to Synchronous and Asynchronous Microservices
 
-01 • Case Study - [Fortune Cookies Monolith](https://github.com/reselbob/fortune-cookies/tree/master/monolith).
+01 • Case Study - [Fortune Cookies Monolith](https://github.com/reselbob/fortune-cookies/tree/master/monolith)
 
-02 • Case Study - [Fortune Cookies Synchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-sync).
+02 • Case Study - [Fortune Cookies Synchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-sync)
 
-03 • Case Study - [Fortune Cookies Asynchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-async).
+03 • Case Study - [Fortune Cookies Asynchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-async)
 
-04 • Case Study - [Implementing a Hybrid Service Using GraphQL
-](Ihttps://github.com/reselbob/seat-saver).
+04 • Case Study - [Implementing a Hybrid Service Using GraphQL](Ihttps://github.com/reselbob/seat-saver)
 
 ### Architectural Styles
 
