@@ -10,7 +10,7 @@
 
 03 • Case Study - [Fortune Cookies Asynchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-async)
 
-04 • Case Study - [Implementing a Hybrid Service Using GraphQL](Ihttps://github.com/reselbob/seat-saver)
+04 • Case Study - [Implementing a Hybrid Service Using GraphQL](https://github.com/reselbob/seat-saver)
 
 ### Architectural Styles
 
