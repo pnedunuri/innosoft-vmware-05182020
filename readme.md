@@ -35,6 +35,8 @@
 
 12 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
 
+13 • [Docker Swarm](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
+
 
 ## Day 2
 
