@@ -10,33 +10,32 @@
 
 03 • Case Study - [Fortune Cookies Asynchronous](https://github.com/reselbob/fortune-cookies/tree/master/microservice-async)
 
-04 • Case Study - [Implementing a Hybrid Service Using GraphQL](https://github.com/reselbob/seat-saver)
 
 ### Architectural Styles
 
-05 • [Coupon API](coupon-api.yaml) and [Airport API](airport-codes-swagger.yaml)
+04 • [Coupon API](coupon-api.yaml) and [Airport API](airport-codes-swagger.yaml)
 
-06 • [RPC and Java RMI](https://katacoda.com/programmableweb/scenarios/understanding-java-rmi)
+05 • [RPC and Java RMI](https://katacoda.com/programmableweb/scenarios/understanding-java-rmi)
 
-07 • [XML-RPC](https://katacoda.com/programmableweb/scenarios/working-with-xml-rpc)
+06 • [XML-RPC](https://katacoda.com/programmableweb/scenarios/working-with-xml-rpc)
 
-08 • [GraphQL Lab](https://github.com/reselbob/seat-saver) and [GraphQL Schema](graphql)
+07 • [GraphQL Lab](https://github.com/reselbob/seat-saver) and [GraphQL Schema](graphql)
 
-09 • [gRPC Lab](https://katacoda.com/programmableweb/scenarios/understanding-a-grpc-api) and [gRPC `.proto`](simple.proto)
+08 • [gRPC Lab](https://katacoda.com/programmableweb/scenarios/understanding-a-grpc-api) and [gRPC `.proto`](simple.proto)
 
 ### Deployment Units
 
-10 • [Docker](https://github.com/reselbob/wisesayings)
+09 • [Docker](https://github.com/reselbob/wisesayings)
 
-11 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
+10 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
-12 • [WebAssembly](webassembly.html) and [WebAssemblyHub](https://webassemblyhub.io/repositories/)
+11 • [WebAssembly](webassembly.html) and [WebAssemblyHub](https://webassemblyhub.io/repositories/)
 
 ### Frameworks
 
-13 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
+12 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
 
-14 • [Docker Swarm](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
+13 • [Docker Swarm](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
 
 ## Day 2
