@@ -14,21 +14,21 @@
 
 ### Architectural Styles
 
-05 • [REST](airport-codes-swagger.yaml)
+05 • [Coupon API](coupon-api.yaml) and [Airport API](airport-codes-swagger.yaml)
 
 06 • [RPC and Java RMI](https://katacoda.com/programmableweb/scenarios/understanding-java-rmi)
 
 07 • [XML-RPC](https://katacoda.com/programmableweb/scenarios/working-with-xml-rpc)
 
-08 • [GraphQL](https://github.com/reselbob/seat-saver).
+08 • [GraphQL Lab](https://github.com/reselbob/seat-saver) and [GraphQL Schema](graphql)
 
-09 • [gRPC](https://katacoda.com/programmableweb/scenarios/understanding-a-grpc-api)
+09 • [gRPC Lab](https://katacoda.com/programmableweb/scenarios/understanding-a-grpc-api) and [gRPC `.proto`](simple.proto)
 
 ### Deployment Units
 
 10 • [Docker](https://github.com/reselbob/wisesayings)
 
-11 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt).
+11 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
 12 • [WebAssembly](https://github.com/reselbob/innosoft-vmware-05182020/blob/master/webassembly/basic.html)
 
