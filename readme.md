@@ -14,7 +14,7 @@
 
 ### Architectural Styles
 
-05 • [RPC and Java RMI](https://katacoda.com/reselbob/scenarios/understanding-java-rmi).
+05 • [RPC and Java RMI](https://katacoda.com/programmableweb/scenarios/understanding-java-rmi).
 
 06 • [XML-RPC](https://katacoda.com/programmableweb/scenarios/working-with-xml-rpc).
 
