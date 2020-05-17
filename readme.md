@@ -30,15 +30,13 @@
 
 11 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
-12 • [WebAssembly](https://github.com/reselbob/innosoft-vmware-05182020/blob/master/webassembly/basic.html)
-
-13 • [WebAssemblyHub](/https://webassemblyhub.io/repositories/)
+12 • [WebAssembly](https://github.com/reselbob/innosoft-vmware-05182020/blob/master/webassembly/basic.html) and [WebAssemblyHub](/https://webassemblyhub.io/repositories/)
 
 ### Frameworks
 
-14 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
+13 • [Kubernetes Deployment Discovery](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
 
-15 • [Docker Swarm](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
+14 • [Docker Swarm](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
 
 ## Day 2
