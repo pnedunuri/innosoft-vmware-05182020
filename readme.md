@@ -14,7 +14,7 @@
 
 ### Architectural Styles
 
-05 • [REST](airport-code-swagger.yaml)
+05 • [REST](airport-codes-swagger.yaml)
 
 06 • [RPC and Java RMI](https://katacoda.com/programmableweb/scenarios/understanding-java-rmi)
 
