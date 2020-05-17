@@ -30,7 +30,7 @@
 
 11 • [Docker Compose](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
-12 • [WebAssembly](webassembly/basic.html) and [WebAssemblyHub](/https://webassemblyhub.io/repositories/)
+12 • [WebAssembly](webassembly.html) and [WebAssemblyHub](/https://webassemblyhub.io/repositories/)
 
 ### Frameworks
 
